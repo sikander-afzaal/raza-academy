@@ -137,7 +137,7 @@ const About = () => {
             </div>
           </div>
           <div className="flex flex-col justify-start items-center gap-[50px] sm:gap-10">
-            <h5 className="text-black font-semibold max-w-[850px] text-[30px] sm:text-[45px] 2xl:text-[56px] relative 2xl:leading-[70px] ">
+            <h5 className="text-black font-semibold max-w-[850px] text-[30px] sm:text-[45px] 2xl:text-[56px]  2xl:leading-[70px] ">
               <span className="text-[40px] sm:text-[50px] 2xl:text-[80px] text-orange leading-[1]">
                 "
               </span>{" "}
