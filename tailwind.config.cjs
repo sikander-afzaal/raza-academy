@@ -18,6 +18,8 @@ module.exports = {
         cream: "#F8F5F4",
       },
       boxShadow: {
+        about:
+          "0px 13.4307px 27.8945px -5.16565px rgba(50, 50, 93, 0.25), 0px 8.26504px 16.5301px -8.26504px rgba(0, 0, 0, 0.3)",
         btn: " 0px 3.09939px 15.497px rgba(0, 0, 0, 0.38)",
       },
       maxWidth: {
