@@ -1,6 +1,6 @@
 const Portfolio = () => {
   return (
-    <div className="wrapper mt-[60px] xl:mt-[100px] bg-blackBg">
+    <div className="wrapper bg-cover mt-[60px] xl:mt-[100px] bg-blackBg">
       <div className="flex xl:flex-row flex-col justify-between items-center py-[80px] xl:gap-0 gap-[70px] xl:py-[130px] w-full max-w-theme">
         <h5 className="text-white xl:text-left text-center font-semibold w-full text-[30px] sm:text-[45px] 2xl:text-[56px] relative 2xl:leading-[80px] ">
           <span className="text-[40px] sm:text-[50px] 2xl:text-[80px] text-lightOrange leading-[1]">
