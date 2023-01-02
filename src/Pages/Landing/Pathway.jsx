@@ -3,14 +3,14 @@ const Pathway = () => {
     <div className="wrapper mt-[60px] xl:mt-[100px]">
       <div className="flex justify-center items-center flex-col w-full max-w-theme">
         <div className="flex justify-start text-center items-center flex-col gap-0 ">
-          <h4 className="text-lightOrange font-medium text-[25px] xl:text-[40px]">
+          <h4 className="text-lightOrange font-medium text-[25px] xl:text-[30px]">
             #Find Your Pathway
           </h4>
-          <h2 className="text-[#313635] font-bold text-[40px] sm:text-[50px] xl:text-[64px]">
+          <h2 className="text-[#313635] font-bold text-[40px] sm:text-[50px] xl:text-[58px]">
             Your Education <br /> Pathway
           </h2>
         </div>
-        <div className="flex xl:flex-row flex-col mt-[40px] xl:mt-[80px] justify-between items-center w-full gap-[50px] sm:gap-[60px] xl:gap-5">
+        <div className="flex xl:flex-row flex-col mt-[40px] xl:mt-[60px] justify-between items-center w-full gap-[50px] sm:gap-[60px] xl:gap-5">
           <div className="flex w-full max-w-[465px] text-center justify-start items-center flex-col">
             <img
               src="/path1.png"
