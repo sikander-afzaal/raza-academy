@@ -23,3 +23,21 @@ body {
 html {
   scroll-behavior: smooth;
 }
+.splide {
+  padding-bottom: 80px !important;
+}
+.splide,
+.splide__track {
+  overflow: visible !important;
+}
+.splide__slide {
+  display: flex;
+  justify-content: center;
+
+  overflow: visible !important;
+}
+@media screen and (max-width: 640px) {
+  .splide__slide {
+    width: 100%;
+  }
+}
